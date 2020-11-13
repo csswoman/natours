@@ -1,0 +1,23 @@
+{
+  "name": "natuors",
+  "version": "1.0.0",
+  "description": "Landing page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csswoman/natours.git"
+  },
+  "author": "Karla Agraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csswoman/natours/issues"
+  },
+  "homepage": "https://github.com/csswoman/natours#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
